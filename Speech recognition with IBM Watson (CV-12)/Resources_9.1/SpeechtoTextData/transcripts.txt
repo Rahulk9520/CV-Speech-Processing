@@ -1,0 +1,15 @@
+CMU_ARCTIC
+arctic_a0001.wav "Author of the danger trail, Philip Steels, etc."
+arctic_a0003.wav "For the twentieth time that evening the two men shook hands."
+arctic_a0005.wav "Will we ever forget it."
+
+LibriSpeech
+367-130732-0000.flac "LOBSTERS AND LOBSTERS."
+367-130732-0001.flac "WHEN IS A LOBSTER NOT A LOBSTER WHEN IT IS A CRAYFISH."
+367-130732-0004.flac "A BOOK COULD BE WRITTEN ABOUT THIS RESTAURANT AND THEN ALL WOULD NOT BE TOLD FOR ALL ITS SECRETS CAN NEVER BE KNOWN."
+
+Valentini
+p232-009.wav "There is , according to legend, a boiling pot of gold at one end."
+p232-010.wav "People look, but no one ever finds it."
+p232-014.wav "To the Hebrews it was a token that there would be no more universal floods."
+p232-030.wav "They were described as being in a serious but stable condition yesterday."
